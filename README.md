@@ -1,5 +1,7 @@
 # Zomato Data Analysis Dashboard
 
+![Zomato Data Analysis](Zomato.png)
+
 ## Overview
 This Power BI dashboard provides insights into Zomato restaurant data, covering key metrics, geographical distribution, restaurant categories, customer feedback, and financial aspects. The goal is to offer a comprehensive view of the restaurant landscape.
 
